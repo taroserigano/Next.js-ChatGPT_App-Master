@@ -9,7 +9,7 @@ Ask about any cities in the world and it will generate recommended places for yo
 The app will create your trip plans for you and save the data on the cloud postgre SQL DB - so you can re-visit. 
 ![alt text](https://github.com/taroserigano/Next.js-ChatGPT_App-Master/blob/main/img/tours1.jpg) 
 
-
+It utilizes the generative image generation and generates image for you. 
 ![alt text](https://github.com/taroserigano/Next.js-ChatGPT_App-Master/blob/main/img/tours2.jpg) 
 
 
